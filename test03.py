@@ -1,3 +1,5 @@
+# 날짜를 입력해 그날의 최고 및 최저 기온을 출력하는 프로그램
+
 import csv
 f = open('seoul.csv', 'r')
 data = csv.reader(f)
